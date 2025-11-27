@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Saugat Nepal</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saugatxnepal&label=Profile%20views&&theme=dracula&color=0e75b6&style=flat" alt="nepal4972" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saugatxnepal&label=Profile%20views&&theme=dracula&color=0e75b6&style=flat" alt="saugatxnepal" /> </p>
 <h3 align="center">Started Learning Offensive Security.</h3>
 <h3 align="center">**Bash Scripting**</h3>
 
